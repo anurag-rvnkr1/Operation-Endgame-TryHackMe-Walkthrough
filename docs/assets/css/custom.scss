@@ -3,7 +3,6 @@
 
 /* ===== Cybersecurity Theme for GitHub Pages ===== */
 
-/* Background */
 body {
   background-color: #0f172a;
   color: #e5e7eb;
@@ -11,7 +10,6 @@ body {
   line-height: 1.7;
 }
 
-/* Headings */
 h1, h2, h3, h4 {
   color: #60a5fa;
 }
@@ -28,12 +26,8 @@ h2 {
   margin-top: 2.5rem;
 }
 
-/* Links */
-a {
-  color: #38bdf8;
-}
+a { color: #38bdf8; }
 
-/* Tables */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -50,11 +44,8 @@ td {
   padding: 10px;
 }
 
-tr:nth-child(even) {
-  background: #1e293b;
-}
+tr:nth-child(even) { background: #1e293b; }
 
-/* Code blocks */
 pre {
   background: #111827;
   border-radius: 10px;
@@ -62,45 +53,12 @@ pre {
   overflow-x: auto;
 }
 
-code {
-  color: #7dd3fc;
-}
+code { color: #7dd3fc; }
 
-/* Images */
 img {
   border-radius: 12px;
   border: 1px solid #334155;
   margin: 24px auto;
   display: block;
   max-width: 100%;
-}
-
-/* Callout Boxes */
-.note,
-.warning,
-.security,
-.success {
-  border-radius: 10px;
-  padding: 16px;
-  margin: 20px 0;
-}
-
-.note {
-  border-left: 5px solid #3b82f6;
-  background: #172554;
-}
-
-.success {
-  border-left: 5px solid #22c55e;
-  background: #052814;
-}
-
-.warning {
-  border-left: 5px solid #f59e0b;
-  background: #451a03;
-}
-
-.security {
-  border-left: 5px solid #ef4444;
-  background: #450a0a;
 }
