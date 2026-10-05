@@ -1,6 +1,5 @@
-title: "TryHackMe CTF"
-description: "Professional CTF documentation."
-
+title: "Operation Endgame — TryHackMe"
+description: "Professional Active Directory penetration testing documentation for the Operation Endgame room."
 theme: jekyll-theme-primer
 
 plugins:
