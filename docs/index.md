@@ -17,12 +17,10 @@
 
 </div>
 
-> **Publication notice:** This portfolio edition redacts challenge flags, recovered passwords, and complete crackable hashes. Account names and technical evidence are retained where needed to explain the documented attack path. The assessment is limited to the supplied TryHackMe lab evidence.
 
-## Documentation Map
+## Navigation
 
 <div class="ctf-toc">
-<div class="ctf-toc-title">Documentation Map</div>
 <ul>
 <li><a href="#mission-and-executive-summary">Mission and Executive Summary</a></li>
 <li><a href="#quick-overview">Quick Overview</a></li>
